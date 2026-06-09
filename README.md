@@ -118,18 +118,6 @@ class EshaSagar:
 
 </div>
 
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=EshaSagarS310&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/EshaSagarS310)
-
-</div>
-
----
-
 ## 💼 Work Experience
 
 <details>
@@ -227,6 +215,6 @@ class EshaSagar:
 
 </div>
 
-
+---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
