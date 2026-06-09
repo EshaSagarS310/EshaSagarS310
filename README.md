@@ -1,28 +1,32 @@
-# Hi 👋, I'm Esha Sagar S
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Esha%20Sagar%20S&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Machine%20Learning%20|%20Cloud%20Computing&descAlignY=58&descSize=18" width="100%" />
 
+<h1 align="center">Hi 👋, I'm Esha Sagar S</h1>
+
+<h3 align="center">
+MCA (Cloud Computing) Student • Full-Stack Developer • ML Enthusiast
+</h3>
+
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Machine+Learning+Enthusiast;Cloud+Computing+Learner;Building+Smart+and+Scalable+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Machine+Learning+Enthusiast;Cloud+Computing+Learner;Building+Smart+and+Scalable+Solutions" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=EshaSagarS310&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=EshaSagarS310&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 MCA (Cloud Computing) Student at Hindustan Institute of Technology and Science
+🎓 MCA (Cloud Computing) at Hindustan Institute of Technology and Science
 
-📊 Current CGPA: **9.72**
+📊 CGPA: **9.72**
 
 💻 Passionate about Full-Stack Development, Machine Learning, and Cloud Computing
 
-🌱 Currently Learning AWS, Azure, Docker, CI/CD, and Advanced Machine Learning
+🤖 Interested in AI-powered solutions and intelligent automation
 
-🚀 Building real-world solutions that combine Software Engineering and AI
+☁️ Currently learning AWS, Azure, Docker, CI/CD, and Advanced Machine Learning
 
 📍 Chennai, Tamil Nadu, India
 
@@ -86,17 +90,17 @@
 
 📅 Jun 2025 – Jul 2025
 
-* Built Calculator using HTML, CSS and JavaScript
-* Developed Music Player with playlist controls
-* Created and deployed a personal portfolio website
+* Built responsive web applications using HTML, CSS, and JavaScript
+* Developed Calculator and Music Player projects
+* Created and deployed a portfolio website
 
 ### AI/ML Intern | Research Department, HITS
 
 📅 Aug 2025 – Sep 2025
 
 * Developed Corporate Tax Fraud Detection Dashboard
-* Implemented fraud detection workflows
-* Automated report generation and analytics
+* Implemented fraud detection workflows using Machine Learning
+* Automated reporting and analytics systems
 
 ---
 
@@ -109,39 +113,45 @@
 * Digital Verification
 * Payment Integration
 
-**Tech:** Python, Machine Learning, Web Development
+**Tech Stack:** Python, Machine Learning, Web Development
+
+🔗 Repository Link
 
 ---
 
 ### 📊 Corporate Tax Fraud Detection Dashboard
 
 * Fraud Analytics Dashboard
-* CSV Processing Pipeline
-* Automated PDF Reports
-* Secure Login System
+* Secure Authentication
+* CSV Data Processing
+* Automated PDF Reporting
 
-**Tech:** Python, Streamlit, Scikit-Learn
+**Tech Stack:** Python, Streamlit, Scikit-Learn
+
+🔗 Repository Link
 
 ---
 
-### 🧾 Income Tax Fraud Detection
+### 🧾 Income Tax Fraud Detection System
 
 * Data Preprocessing
 * Fraud Prediction
 * Feature Engineering
 * Model Evaluation
 
-**Tech:** Python, Pandas, XGBoost
+**Tech Stack:** Python, Pandas, XGBoost
+
+🔗 Repository Link
 
 ---
 
 ## 🏆 Certifications
 
-* NPTEL – Concept of Cloud Computing
-* NPTEL – Introduction to Algorithms and Analysis
-* AI/ML Research Internship
-* Frontend Development Internship
-* MS Office 365 Productivity Program
+* ☁️ NPTEL – Concept of Cloud Computing
+* 🧮 NPTEL – Introduction to Algorithms and Analysis
+* 🤖 AI/ML Research Internship
+* 💻 Frontend Development Internship
+* 📜 MS Office 365 Productivity Program
 
 ---
 
@@ -149,8 +159,7 @@
 
 * AWS (EC2, S3, Lambda, IAM, RDS)
 * Azure Fundamentals (AZ-900)
-* Docker
-* CI/CD Pipelines
+* Docker & CI/CD
 * Deep Learning
 * NLP
 * Advanced React.js
@@ -167,6 +176,10 @@
 
 <a href="https://github.com/EshaSagarS310">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/nexyra212">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <a href="mailto:eshasagar3124@gmail.com">
